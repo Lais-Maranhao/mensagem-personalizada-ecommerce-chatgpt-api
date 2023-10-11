@@ -1,8 +1,8 @@
-# Santander Dev Week 2023 - Amazon Books
+# Projeto Dev Week 2023 - Amazon Books
 
 ## Descrição do Projeto
 
-Este projeto foi desenvolvido durante a Santander Dev Week 2023. O objetivo é criar mensagens de marketing personalizadas para clientes da Amazon que compraram livros relacionados à ciência de dados no último ano, usando a API do ChatGPT (OpenAI).
+Este projeto foi desenvolvido durante a Santander Dev Week 2023 da DIO. O objetivo é criar mensagens de marketing personalizadas para clientes da Amazon que compraram livros relacionados à ciência de dados no último ano, usando a API do ChatGPT (OpenAI).
 
 O projeto segue o processo ETL (Extract, Transform, Load):
 
